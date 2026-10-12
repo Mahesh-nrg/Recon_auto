@@ -1,0 +1,10 @@
+# Recon output (one timestamped folder per run)
+*_recon_*/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local tool state
+.gf/
